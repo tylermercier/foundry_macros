@@ -6,7 +6,7 @@
 
 async function getTableResult(tableId) {
 	const reactionTable = await fromUuid(tableId);
-	result = await reactionTable.draw({displayChat: false});
+	result = await reactionTable.draw({ displayChat: false });
 	return result.results[0].text;
 }
 
@@ -20,4 +20,4 @@ Distance:  ${distanceText}<br/>
 Activity:  ${activityText}<br/>
 Reaction:  ${reactionText}<br/>`
 
-ChatMessage.create({ content: message,  whisper: game.user._id });
+ChatMessage.create({ content: message, whisper: game.user._id });

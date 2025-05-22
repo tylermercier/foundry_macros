@@ -32,10 +32,10 @@ const content = `
 `
 
 const dice = await Dialog.prompt({
-  title: "Apply Stat Damage",
-  width: 200,
-  content,
-  callback: ([html]) => applyDamage(new FormDataExtended(html.querySelector("form")).object),
+    title: "Apply Stat Damage",
+    width: 200,
+    content,
+    callback: ([html]) => applyDamage(new FormDataExtended(html.querySelector("form")).object),
 });
 
 function applyDamage(formData) {
@@ -47,9 +47,9 @@ function applyDamage(formData) {
     const img = "icons/skills/movement/arrow-down-pink.webp"
 
     let abilities = {};
-    abilities[attKey] = {bonus: attValue};
+    abilities[attKey] = { bonus: attValue };
 
-    const effectData ={
+    const effectData = {
         "effects": [
             {
                 "changes": [
@@ -77,5 +77,5 @@ function applyDamage(formData) {
         },
         "type": "Effect"
     }
-    Item.create(effectData , {parent: actor});
+    Item.create(effectData, { parent: actor });
 }
