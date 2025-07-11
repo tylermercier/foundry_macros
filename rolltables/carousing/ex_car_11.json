@@ -1,0 +1,147 @@
+{
+  "folder": "8a6xKKdhJr1C9zRs",
+  "name": "ex-car-11",
+  "img": "icons/consumables/drinks/alcohol-beer-stein-wooden-metal-brown.webp",
+  "description": "",
+  "results": [
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "vynQPGwgWoEGEzbo",
+      "text": "You have assumed the role of the informal leader among a group of street urchins who have embraced you as one of their own.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "documentCollection": ""
+    },
+    {
+      "type": "text",
+      "documentCollection": "",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "omnCCEcgf1IFTIvr",
+      "text": "Gain 5 XP and street urchin allies",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "documentCollection": "",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "ihFJQ6idH0pd8w5w",
+      "text": "You had an epic party with a famous adventurer who happened to be in town.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "documentCollection": "",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "NxiwFdCXwLNV4L6o",
+      "text": "Gain 5 XP and a famous NPC ally",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "documentCollection": "",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_id": "YDYDQk0ZoFQn7LBm",
+      "text": "You performed a humiliating prank on a despised and corrupt merchant.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "documentCollection": "",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_id": "KzCL9GDbjNo1wcfw",
+      "text": "Gain 5 XP and an ally in the city watch",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "documentCollection": "",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_id": "sKqTxbv0C9cZ6w4e",
+      "text": "A thieves’ guild member accidentally left a belonging in your room (50% it was stolen).",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "documentCollection": "",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_id": "Czxrojn8ulZMtF02",
+      "text": "Gain 5 XP and a 20-60 treasure table item",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "exportSource": {
+      "world": "tosk",
+      "system": "shadowdark",
+      "coreVersion": "12.343",
+      "systemVersion": "3.5.0"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "shadowdark",
+    "systemVersion": "3.4.4",
+    "createdTime": 1745422479899,
+    "modifiedTime": 1752255053181,
+    "lastModifiedBy": "5VTkSiz1YNCdJesO"
+  },
+  "formula": "1d4"
+}

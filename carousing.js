@@ -3,6 +3,7 @@
 // v1.0
 // Description: Roll on carousing tables
 
+// import carousing tables and update this reference to carousing.json
 const table = await fromUuid("RollTable.dw4kl35H5hMS5ZHf");
 
 const modField = new foundry.data.fields.NumberField({

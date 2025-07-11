@@ -1,0 +1,147 @@
+{
+  "folder": "8a6xKKdhJr1C9zRs",
+  "name": "ex-car-09",
+  "img": "icons/consumables/drinks/alcohol-beer-stein-wooden-metal-brown.webp",
+  "description": "",
+  "results": [
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "vynQPGwgWoEGEzbo",
+      "text": "A drunken thieves’ guild member spills the beans on a few too many secrets and gossips with you",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "documentCollection": ""
+    },
+    {
+      "type": "text",
+      "documentCollection": "",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "omnCCEcgf1IFTIvr",
+      "text": "Gain 5 XP and a 1d4 rumors",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "documentCollection": "",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "ihFJQ6idH0pd8w5w",
+      "text": "By talent (50%) or trickery (50%), you beat a rival crawler in a test of skill",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "documentCollection": "",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "NxiwFdCXwLNV4L6o",
+      "text": "Gain 5 XP and an NPC ally or enemy",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "documentCollection": "",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_id": "YDYDQk0ZoFQn7LBm",
+      "text": "A mesmerized crowd listened as an elderly (man/woman 50%) in gray robes and a single eye foretold your destiny.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "documentCollection": "",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_id": "KzCL9GDbjNo1wcfw",
+      "text": "Gain 5 XP and add d6 to next luck token",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "documentCollection": "",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_id": "sKqTxbv0C9cZ6w4e",
+      "text": "You performed a heroic act by saving a tavern from a fire.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "documentCollection": "",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_id": "Czxrojn8ulZMtF02",
+      "text": "Gain 5 XP and drinks for life from tavern",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "exportSource": {
+      "world": "tosk",
+      "system": "shadowdark",
+      "coreVersion": "12.343",
+      "systemVersion": "3.5.0"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "shadowdark",
+    "systemVersion": "3.4.4",
+    "createdTime": 1745422338650,
+    "modifiedTime": 1752255053181,
+    "lastModifiedBy": "5VTkSiz1YNCdJesO"
+  },
+  "formula": "1d4"
+}

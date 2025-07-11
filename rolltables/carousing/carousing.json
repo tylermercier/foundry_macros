@@ -1,0 +1,237 @@
+{
+  "name": "Carousing",
+  "img": "icons/environment/settlement/gazebo.webp",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "AN57Pv3TDLX1BxGP",
+      "text": "ex-car-01",
+      "img": "icons/consumables/drinks/alcohol-beer-stein-wooden-metal-brown.webp",
+      "documentId": "MGeMOjdjEBpCnTrS",
+      "flags": {},
+      "documentCollection": "RollTable"
+    },
+    {
+      "type": "document",
+      "documentCollection": "RollTable",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "TUKSI17BHwRi3nYM",
+      "text": "ex-car-02",
+      "img": "icons/consumables/drinks/alcohol-beer-stein-wooden-metal-brown.webp",
+      "documentId": "CpSM6AMpe2V4qvpY",
+      "flags": {}
+    },
+    {
+      "type": "document",
+      "documentCollection": "RollTable",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_id": "P0ckD8cFrQwu0mtD",
+      "text": "ex-car-03",
+      "img": "icons/consumables/drinks/alcohol-beer-stein-wooden-metal-brown.webp",
+      "documentId": "qMj1J5g7MakUE9W7",
+      "flags": {}
+    },
+    {
+      "type": "document",
+      "documentCollection": "RollTable",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_id": "UlecV9IMRQmsmlOr",
+      "text": "ex-car-04",
+      "img": "icons/consumables/drinks/alcohol-beer-stein-wooden-metal-brown.webp",
+      "documentId": "q6GnrpHvf02LrII6",
+      "flags": {}
+    },
+    {
+      "type": "document",
+      "documentCollection": "RollTable",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_id": "A6y8VTMPYDMkaUYq",
+      "text": "ex-car-05",
+      "img": "icons/consumables/drinks/alcohol-beer-stein-wooden-metal-brown.webp",
+      "documentId": "lt6gPIprU3VkFC88",
+      "flags": {}
+    },
+    {
+      "type": "document",
+      "documentCollection": "RollTable",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_id": "577N1GWVfuB3TLZr",
+      "text": "ex-car-06",
+      "img": "icons/consumables/drinks/alcohol-beer-stein-wooden-metal-brown.webp",
+      "documentId": "vW2JXmxEH1gFbTtw",
+      "flags": {}
+    },
+    {
+      "type": "document",
+      "documentCollection": "RollTable",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_id": "xXdSx5TyzAmjqh4M",
+      "text": "ex-car-07",
+      "img": "icons/consumables/drinks/alcohol-beer-stein-wooden-metal-brown.webp",
+      "documentId": "7SYmYPVw7LxbMY5y",
+      "flags": {}
+    },
+    {
+      "type": "document",
+      "documentCollection": "RollTable",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_id": "hKvomxRIBvhaedML",
+      "text": "ex-car-08",
+      "img": "icons/consumables/drinks/alcohol-beer-stein-wooden-metal-brown.webp",
+      "documentId": "OIniPvdZHxEiEvjR",
+      "flags": {}
+    },
+    {
+      "type": "document",
+      "documentCollection": "RollTable",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_id": "SPdwntjY9n7KSl5x",
+      "text": "ex-car-09",
+      "img": "icons/consumables/drinks/alcohol-beer-stein-wooden-metal-brown.webp",
+      "documentId": "YOPhRH5xBfEnxTPg",
+      "flags": {}
+    },
+    {
+      "type": "document",
+      "documentCollection": "RollTable",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_id": "yj7anIY52uDhx3Y6",
+      "text": "ex-car-10",
+      "img": "icons/consumables/drinks/alcohol-beer-stein-wooden-metal-brown.webp",
+      "documentId": "Zs81vWTeB8DNfj1C",
+      "flags": {}
+    },
+    {
+      "type": "document",
+      "documentCollection": "RollTable",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_id": "Bgf6prwkWji5iHeb",
+      "text": "ex-car-11",
+      "img": "icons/consumables/drinks/alcohol-beer-stein-wooden-metal-brown.webp",
+      "documentId": "Mgt9Ba8PG6roSIc8",
+      "flags": {}
+    },
+    {
+      "type": "document",
+      "documentCollection": "RollTable",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_id": "iMMA0vUzmESK5XX3",
+      "text": "ex-car-12",
+      "img": "icons/consumables/drinks/alcohol-beer-stein-wooden-metal-brown.webp",
+      "documentId": "nuvv7ZHtvZGCv2Dt",
+      "flags": {}
+    },
+    {
+      "type": "document",
+      "documentCollection": "RollTable",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_id": "0dAcTFxCpdxRF6ZB",
+      "text": "ex-car-13",
+      "img": "icons/consumables/drinks/alcohol-beer-stein-wooden-metal-brown.webp",
+      "documentId": "kOKs7Bx5G3GqTqiG",
+      "flags": {}
+    },
+    {
+      "type": "document",
+      "documentCollection": "RollTable",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_id": "nT5FuGL0zo2IARp5",
+      "text": "ex-car-14",
+      "img": "icons/consumables/drinks/alcohol-beer-stein-wooden-metal-brown.webp",
+      "documentId": "wVQTbcyT46RnVT8v",
+      "flags": {}
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "fQx3wZ7WMhJnTw1X",
+  "flags": {
+    "exportSource": {
+      "world": "tosk",
+      "system": "shadowdark",
+      "coreVersion": "12.343",
+      "systemVersion": "3.5.0"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": "shadowdark",
+    "systemVersion": "3.4.4",
+    "createdTime": 1744996760804,
+    "modifiedTime": 1745428900461,
+    "lastModifiedBy": "5VTkSiz1YNCdJesO"
+  },
+  "formula": "1d8"
+}

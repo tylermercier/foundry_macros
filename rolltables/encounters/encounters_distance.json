@@ -1,0 +1,69 @@
+{
+  "name": "Distance",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "Hzn127bXJ56X5BJP",
+      "text": "Close",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "KFIH3fDIH9MJ0Erz",
+      "text": "Near",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_id": "ztBunxHlWa55OgLW",
+      "text": "Far",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "WcFtwPUkf1wV4SaT",
+  "flags": {
+    "exportSource": {
+      "world": "tosk",
+      "system": "shadowdark",
+      "coreVersion": "12.343",
+      "systemVersion": "3.5.0"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": "shadowdark",
+    "systemVersion": "3.4.6",
+    "createdTime": 1747659518266,
+    "modifiedTime": 1747659882120,
+    "lastModifiedBy": "5VTkSiz1YNCdJesO"
+  },
+  "formula": "1d3"
+}

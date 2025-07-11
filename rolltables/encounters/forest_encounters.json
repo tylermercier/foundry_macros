@@ -1,0 +1,777 @@
+{
+  "description": "",
+  "displayRoll": false,
+  "folder": "WcFtwPUkf1wV4SaT",
+  "formula": "1d100",
+  "img": "icons/environment/wilderness/terrain-forest-gray.webp",
+  "name": "Forest Encounters",
+  "replacement": true,
+  "results": [
+    {
+      "_id": "MNXczdeJO7TWUGAj",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        1,
+        1
+      ],
+      "text": "3d6 giant spiders fill this part of the forest with thick webs",
+      "type": "text",
+      "weight": 1,
+      "flags": {}
+    },
+    {
+      "_id": "9dEznuemkLTLmhYp",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        2,
+        3
+      ],
+      "text": "A scavenging owlbear snorts around in the overgrowth",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "loaxCAEIlNdilQky",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        4,
+        5
+      ],
+      "text": "1d6 boars flee a hunting party of 2d4 territorial centaurs",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "rZjEZP25NtK6L62z",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        6,
+        7
+      ],
+      "text": "2d6 elves stealthily trail the PCs and prepare to ambush",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "9PXpblnDiaoomi1j",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        8,
+        9
+      ],
+      "text": "A panther drops down on the rearmost character",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "4AUTqIIM1oyuSakC",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        10,
+        11
+      ],
+      "text": "2d6 giant wasps drone about in a heavy treetop nest",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "ENBMi3hHnPMzE9SM",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        12,
+        13
+      ],
+      "text": "An ancient, rotted tree snaps and falls toward the PCs",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "Ds7n8HhTykEQVYuY",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        14,
+        15
+      ],
+      "text": "A hungry otyugh hides in a pile of rotting vegetation",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "n6jLyzVlqTuuLKWg",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        16,
+        17
+      ],
+      "text": "2d4 smelly, hooting apes throw rocks from behind trees",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "M50NwNTfPgNfz1Gt",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        18,
+        19
+      ],
+      "text": "A snow of glowing pixie-dust causes intense drowsiness",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "UbWOa7xk7UTNppVJ",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        20,
+        21
+      ],
+      "text": "A giant snake coils in the mud of a dried-out riverbed",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "h12KW8hoBBdvu2M1",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        22,
+        23
+      ],
+      "text": "1d4 snarling badgers burst out of their hidden den",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "w91bQCy7fr2bOBfF",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        24,
+        25
+      ],
+      "text": "1d4 treants offer pleasantries and slowly amble through",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "87Tv3yNl0DlQGdww",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        26,
+        27
+      ],
+      "text": "1d6 Wolf Fang goblins riding worgs tear through the trees",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "kM70wEJSXRdmLSNm",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        28,
+        29
+      ],
+      "text": "A blood vine tries to strangle a wounded berserker",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "8vnVSnCaccSGcbxD",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        30,
+        31
+      ],
+      "text": "2d4 elves guard a treetop outpost; the PCs are trespassing",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "9iUqJ0hZWqU3CCmf",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        32,
+        33
+      ],
+      "text": "A weald hag is foraging with her 2 truffle-hunting boars",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "TQXW7adTiYLTlgO0",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        34,
+        35
+      ],
+      "text": "1d6 faeries try to hog-tie the PCs with thread and needle",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "Aebea7WwN9xB0ajX",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        36,
+        37
+      ],
+      "text": "2d20 bobbing violet fungi crawl across the forest floor",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "g1JsCR7uKVnsgaXD",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        38,
+        39
+      ],
+      "text": "2d6 rangy wolves snap at the PCs and retreat out of reach",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "kMsydYKwOiwfRaX1",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        40,
+        41
+      ],
+      "text": "1d6 giant spiders scuttle along the tree boughs",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "G1lkaYji8pjRvksh",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        42,
+        43
+      ],
+      "text": "2d6 muddy kobolds leap out and demand a passing toll",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "uiEhUtiCcvhlSPtd",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        44,
+        45
+      ],
+      "text": "A mage in a dangling web cocoon thrashes and screams",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "hKISMmDaHYV4LR4F",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        46,
+        47
+      ],
+      "text": "1d4 rusty bear traps spring out from beneath the leaf litter",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "HekPkiaU8FFelCNv",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        48,
+        49
+      ],
+      "text": "2d4 Blood of Ramlaat tribe orcs chop angrily at trees",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "fYxfqezwrkyWRHZC",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        50,
+        53
+      ],
+      "text": "2d6 goblins and 2d6 kobolds spill out of a cave, fighting",
+      "type": "text",
+      "weight": 4,
+      "flags": {}
+    },
+    {
+      "_id": "z6vxiUlI6PdxPOYC",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        54,
+        55
+      ],
+      "text": "A catgut wire triggers a wide, falling net hidden above",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "rNSFUpyfnVTGACEO",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        56,
+        57
+      ],
+      "text": "Two brown bears charge the PCs from opposite sides",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "9DH4iei90ecfMNjb",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        58,
+        59
+      ],
+      "text": "A centipede swarm writhes out of the muddy ground",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "b5BykPXgIz62eE15",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        60,
+        61
+      ],
+      "text": "A dryad stares into a well surrounded by old stone walls",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "czdsovaXEkCbHRjY",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        62,
+        63
+      ],
+      "text": "A smug leprechaun taunts the PCs from a high branch",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "NSXw2JxCczPZLv9a",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        64,
+        65
+      ],
+      "text": "A shambling mound crashes up the side of a small ravine",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "vK4QZDDD9Oexnpfz",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        66,
+        67
+      ],
+      "text": "A massive, half-buried stone head peeks from the earth",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "3pRG7fxQRXBojepq",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        68,
+        69
+      ],
+      "text": "2d6 orcs make camp and roast a yelping peasant on a spit",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "tDg9Hc7IuVKaUsdS",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        70,
+        71
+      ],
+      "text": "A rabid, frothing dire wolf staggers into sight and growls",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "GG63tQrSd7W4hAlU",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        72,
+        73
+      ],
+      "text": "1d4 giant frogs try to grab 1d6 stingbats with their tongues",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "5PnKd7vcRy7OpaTp",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        74,
+        75
+      ],
+      "text": "Hrugin the troll drags 1d4 injured, tied-up rival crawlers",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "xsuj9CjhWcTppTFm",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        76,
+        77
+      ],
+      "text": "Crimson roses sprout around a weathered statue of Gede",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "JQ8WHrxCabEcJCGV",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        78,
+        79
+      ],
+      "text": "An ogre tries to uproot a sapling to use as a new club",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "n5zcpLK3OQQGXtBA",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        80,
+        81
+      ],
+      "text": "2d6 goblins dance around a mighty oak hung with charms",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "qa77AfOdZWxSQF9j",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        82,
+        83
+      ],
+      "text": "2d4 ranging green knights (L) emerge from the trees",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "rBdSPxlp1M8vYCne",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        84,
+        85
+      ],
+      "text": "2d4 kobolds carry their bugbear king in a beer barrel litter",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "EfaKoCEm6iQUfoI6",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        86,
+        87
+      ],
+      "text": "1d4 cave creepers charge out of a cave reeking of sulfur",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "etv8QoKMVul9buwh",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        88,
+        89
+      ],
+      "text": "An irritable forest dragon stumps lazily through the woods",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "xivZgppBNtHQ9jdc",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        90,
+        91
+      ],
+      "text": "A camp of 2d20 berserkers is willing to trade for goods",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "XJdimFuk996dIiov",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        92,
+        93
+      ],
+      "text": "An abandoned, overgrown stone chapel offers safe shelter",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "GAseV1QQJjuvRVUI",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        94,
+        95
+      ],
+      "text": "An orc chieftain gives a fiery speech to 2d12 cheering orcs",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "2mWuQ0w0JWZl7Xpu",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        96,
+        97
+      ],
+      "text": "The Wandering Merchant pops out of a rotten tree stump",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "VNXLPRaUr8qpXVO2",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        98,
+        99
+      ],
+      "text": "Roll two encounters and combine the results (reroll 98-99)",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "9YD7Wi8autHajycy",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        100,
+        100
+      ],
+      "text": "The body of a dead crawler holds a random magic item",
+      "type": "text",
+      "weight": 1,
+      "flags": {}
+    }
+  ],
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": "shadowdark",
+    "systemVersion": "3.3.1",
+    "createdTime": 1744986633910,
+    "modifiedTime": 1744997211706,
+    "lastModifiedBy": "5VTkSiz1YNCdJesO"
+  },
+  "flags": {
+    "exportSource": {
+      "world": "tosk",
+      "system": "shadowdark",
+      "coreVersion": "12.343",
+      "systemVersion": "3.5.0"
+    }
+  }
+}

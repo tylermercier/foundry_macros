@@ -1,0 +1,777 @@
+{
+  "description": "",
+  "displayRoll": false,
+  "folder": "fQx3wZ7WMhJnTw1X",
+  "formula": "1d100",
+  "img": "icons/environment/settlement/tavern.webp",
+  "name": "Tavern Encounters",
+  "replacement": true,
+  "results": [
+    {
+      "_id": "MNXczdeJO7TWUGAj",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        1,
+        1
+      ],
+      "text": "A cloaked man (vampire) at the door asks to be invited in",
+      "type": "text",
+      "weight": 1,
+      "flags": {}
+    },
+    {
+      "_id": "9dEznuemkLTLmhYp",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        2,
+        3
+      ],
+      "text": "2d6 Overlord's Assassins sweep in and scan the crowd",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "loaxCAEIlNdilQky",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        4,
+        5
+      ],
+      "text": "3d6 patrons watching a tense dice game erupt in a brawl",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "rZjEZP25NtK6L62z",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        6,
+        7
+      ],
+      "text": "2d6 boorish sailors swarm in and hog the entire bar area",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "9PXpblnDiaoomi1j",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        8,
+        9
+      ],
+      "text": "A sour-faced patron buys a drink for everyone but the PCs",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "4AUTqIIM1oyuSakC",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        10,
+        11
+      ],
+      "text": "A PC is mistakenly announced as the next pit fighter",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "ENBMi3hHnPMzE9SM",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        12,
+        13
+      ],
+      "text": "A drunk halfling swings on an ancient, creaking chandelier",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "Ds7n8HhTykEQVYuY",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        14,
+        15
+      ],
+      "text": "A woman stalks up and throws a drink in a PC's face",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "n6jLyzVlqTuuLKWg",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        16,
+        17
+      ],
+      "text": "A patron's raw cobra order rears up from the plate, hissing",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "M50NwNTfPgNfz1Gt",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        18,
+        19
+      ],
+      "text": "A slippery puddle of foamy ale spreads over the floor",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "UbWOa7xk7UTNppVJ",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        20,
+        21
+      ],
+      "text": "A half-orc roars and lifts a full-sized table over his head",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "h12KW8hoBBdvu2M1",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        22,
+        23
+      ],
+      "text": "A long, terrified scream comes from the kitchen",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "w91bQCy7fr2bOBfF",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        24,
+        25
+      ],
+      "text": "A group of rival crawlers tell the PCs this is their tavern",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "87Tv3yNl0DlQGdww",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        26,
+        27
+      ],
+      "text": "A slender man whispers, \"Need poison? Best you can buy!\"",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "kM70wEJSXRdmLSNm",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        28,
+        29
+      ],
+      "text": "A smirking elf challenges a PC to dice; the dice are loaded",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "8vnVSnCaccSGcbxD",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        30,
+        31
+      ],
+      "text": "A dour mage studies a book and glares at noisemakers",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "9iUqJ0hZWqU3CCmf",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        32,
+        33
+      ],
+      "text": "A half-orc and halfling arm wrestle; the halfling is winning",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "TQXW7adTiYLTlgO0",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        34,
+        35
+      ],
+      "text": "Two rival bards start an uproarious singing contest",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "Aebea7WwN9xB0ajX",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        36,
+        37
+      ],
+      "text": "A sailor throws another onto the PCs' table, spilling drinks",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "g1JsCR7uKVnsgaXD",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        38,
+        39
+      ],
+      "text": "Five merry dwarves sing a shanty and headbutt each other",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "kMsydYKwOiwfRaX1",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        40,
+        41
+      ],
+      "text": "1d6 patrons (chaos cultists) skulk into the back room",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "G1lkaYji8pjRvksh",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        42,
+        43
+      ],
+      "text": "An enraged, sprinting crocodile bursts out of the kitchen",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "uiEhUtiCcvhlSPtd",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        44,
+        45
+      ],
+      "text": "A hooded patron smashes a flask of flaming oil and runs",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "hKISMmDaHYV4LR4F",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        46,
+        47
+      ],
+      "text": "A dwarf in clogs challenges a PC to a dancing contest",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "HekPkiaU8FFelCNv",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        48,
+        49
+      ],
+      "text": "Atticus Gnarl, a halfling wizard, stares unblinking at a PC",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "fYxfqezwrkyWRHZC",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        50,
+        53
+      ],
+      "text": "Rival crawlers challenge the PCs to a drinking contest",
+      "type": "text",
+      "weight": 4,
+      "flags": {}
+    },
+    {
+      "_id": "z6vxiUlI6PdxPOYC",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        54,
+        55
+      ],
+      "text": "A halfling tries to stealthily tie the PCs' bootlaces together",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "rNSFUpyfnVTGACEO",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        56,
+        57
+      ],
+      "text": "A man grabs a PC and shouts, \"You know what you did!\"",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "9DH4iei90ecfMNjb",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        58,
+        59
+      ],
+      "text": "Drunk dart throwers can hardly tell which way is up",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "b5BykPXgIz62eE15",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        60,
+        61
+      ],
+      "text": "A woman flawlessly lifts a coin purse from a patron's belt",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "czdsovaXEkCbHRjY",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        62,
+        63
+      ],
+      "text": "Rival crawlers whisper over a book and point to passages",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "NSXw2JxCczPZLv9a",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        64,
+        65
+      ],
+      "text": "2d6 City Watch guards tromp wearily through the door",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "vK4QZDDD9Oexnpfz",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        66,
+        67
+      ],
+      "text": "A landscape painting subtly changes when not observed",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "3pRG7fxQRXBojepq",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        68,
+        69
+      ],
+      "text": "A half-orc gulps a whole flagon and punches the server",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "tDg9Hc7IuVKaUsdS",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        70,
+        71
+      ],
+      "text": "A woman in dark-blue leathers sips tea and observes",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "GG63tQrSd7W4hAlU",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        72,
+        73
+      ],
+      "text": "A cloaked figure jumps the bar and goes for the coin box",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "5PnKd7vcRy7OpaTp",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        74,
+        75
+      ],
+      "text": "Rival crawlers try to pawn off a map nobody can decipher",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "xsuj9CjhWcTppTFm",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        76,
+        77
+      ],
+      "text": "Everyone avoids the chained trapdoor of stone in the floor",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "JQ8WHrxCabEcJCGV",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        78,
+        79
+      ],
+      "text": "Four whispering commoners stop and glare at passersby",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "n5zcpLK3OQQGXtBA",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        80,
+        81
+      ],
+      "text": "A woman picks up a chair and smashes it on a man's head",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "qa77AfOdZWxSQF9j",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        82,
+        83
+      ],
+      "text": "A sympathetic City Watch guard shares an inside rumor",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "rBdSPxlp1M8vYCne",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        84,
+        85
+      ],
+      "text": "Violet Dorn, a widely renowned bard, walks into the tavern",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "EfaKoCEm6iQUfoI6",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        86,
+        87
+      ],
+      "text": "A weeping priest wobbles over and collapses on a PC",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "etv8QoKMVul9buwh",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        88,
+        89
+      ],
+      "text": "At the sound of a nearby Watch whistle, 1d6 patrons bolt",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "xivZgppBNtHQ9jdc",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        90,
+        91
+      ],
+      "text": "A well-heeled patron invites the PCs into a private booth",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "XJdimFuk996dIiov",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        92,
+        93
+      ],
+      "text": "The brass wolf's nose imparts good luck (5% for luck token)",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "GAseV1QQJjuvRVUI",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        94,
+        95
+      ],
+      "text": "A patron slips a note to a PC: \"You're surrounded by spies\"",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "2mWuQ0w0JWZl7Xpu",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        96,
+        97
+      ],
+      "text": "The Wandering Merchant has a Van Dinkle flask (pg. 137)",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "VNXLPRaUr8qpXVO2",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        98,
+        99
+      ],
+      "text": "Roll two encounters and combine the results (reroll 98-99)",
+      "type": "text",
+      "weight": 2,
+      "flags": {}
+    },
+    {
+      "_id": "9YD7Wi8autHajycy",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        100,
+        100
+      ],
+      "text": "A die sits in a dusty corner; it's Brak's Cube of Perfection",
+      "type": "text",
+      "weight": 1,
+      "flags": {}
+    }
+  ],
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": "shadowdark",
+    "systemVersion": "3.3.1",
+    "createdTime": 1744987345696,
+    "modifiedTime": 1745345368406,
+    "lastModifiedBy": "5VTkSiz1YNCdJesO"
+  },
+  "flags": {
+    "exportSource": {
+      "world": "tosk",
+      "system": "shadowdark",
+      "coreVersion": "12.343",
+      "systemVersion": "3.5.0"
+    }
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "folder": "8a6xKKdhJr1C9zRs",
+  "name": "ex-car-10",
+  "img": "icons/consumables/drinks/alcohol-beer-stein-wooden-metal-brown.webp",
+  "description": "",
+  "results": [
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "vynQPGwgWoEGEzbo",
+      "text": "You prevented a band of thieves from robbing a local shop.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "documentCollection": ""
+    },
+    {
+      "type": "text",
+      "documentCollection": "",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "omnCCEcgf1IFTIvr",
+      "text": "Gain 5 XP and a shop owner ally",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "documentCollection": "",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "ihFJQ6idH0pd8w5w",
+      "text": "An angry wizard cast a deadly spell at you, but you reflected it off your cup.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "documentCollection": "",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "NxiwFdCXwLNV4L6o",
+      "text": "Gain 5 XP and a luck token",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "documentCollection": "",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_id": "YDYDQk0ZoFQn7LBm",
+      "text": "Drunkenly solved an alchemist’s formula conundrum.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "documentCollection": "",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_id": "KzCL9GDbjNo1wcfw",
+      "text": "Gain 4 XP and a random potion",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "documentCollection": "",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_id": "sKqTxbv0C9cZ6w4e",
+      "text": "A mysterious stranger took a liking to you and taught you a rare skill.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "documentCollection": "",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_id": "Czxrojn8ulZMtF02",
+      "text": "Gain 5 XP and a new skill (SDRPG.91)",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "exportSource": {
+      "world": "tosk",
+      "system": "shadowdark",
+      "coreVersion": "12.343",
+      "systemVersion": "3.5.0"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "shadowdark",
+    "systemVersion": "3.4.4",
+    "createdTime": 1745422340367,
+    "modifiedTime": 1752255053181,
+    "lastModifiedBy": "5VTkSiz1YNCdJesO"
+  },
+  "formula": "1d4"
+}

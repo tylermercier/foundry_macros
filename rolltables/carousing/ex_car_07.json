@@ -1,0 +1,147 @@
+{
+  "folder": "8a6xKKdhJr1C9zRs",
+  "name": "ex-car-07",
+  "img": "icons/consumables/drinks/alcohol-beer-stein-wooden-metal-brown.webp",
+  "description": "",
+  "results": [
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "vynQPGwgWoEGEzbo",
+      "text": "You agreed to take a bunch of newbie crawlers on an adventure.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "documentCollection": ""
+    },
+    {
+      "type": "text",
+      "documentCollection": "",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "omnCCEcgf1IFTIvr",
+      "text": "Gain 4 XP and an adventure contract",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "documentCollection": "",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "ihFJQ6idH0pd8w5w",
+      "text": "You prevented an alley mugging and earned the victim’s eternal gratitude.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "documentCollection": "",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "NxiwFdCXwLNV4L6o",
+      "text": "Gain 4 XP and a hireling NPC",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "documentCollection": "",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_id": "YDYDQk0ZoFQn7LBm",
+      "text": "You led an entire tavern in a wildly insulting song about a disliked noble.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "documentCollection": "",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_id": "KzCL9GDbjNo1wcfw",
+      "text": "Gain 4 XP and a famous bard ally",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "documentCollection": "",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_id": "sKqTxbv0C9cZ6w4e",
+      "text": "You planted some trees and protested against private hunting leases with a local druid.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "documentCollection": "",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_id": "Czxrojn8ulZMtF02",
+      "text": "Gain 4 XP and a druid ally",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "exportSource": {
+      "world": "tosk",
+      "system": "shadowdark",
+      "coreVersion": "12.343",
+      "systemVersion": "3.5.0"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": "shadowdark",
+    "systemVersion": "3.4.4",
+    "createdTime": 1745422335533,
+    "modifiedTime": 1745878783244,
+    "lastModifiedBy": "5VTkSiz1YNCdJesO"
+  },
+  "formula": "1d4"
+}

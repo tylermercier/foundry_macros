@@ -1,0 +1,237 @@
+{
+  "description": "",
+  "displayRoll": true,
+  "folder": "AOro81YIM6Osxieb",
+  "formula": "1d12",
+  "img": "icons/magic/unholy/strike-body-explode-disintegrate.webp",
+  "name": "Wizard Mishap Tier 5",
+  "replacement": true,
+  "results": [
+    {
+      "_id": "t1IT7UBVnDsVcBhm",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        1,
+        1
+      ],
+      "text": "<b>Devastation!</b> Roll twice and combine both effects (reroll any further 1s).",
+      "type": "text",
+      "weight": 1,
+      "flags": {}
+    },
+    {
+      "_id": "y1lafduW3hINmggm",
+      "documentCollection": "shadowdark.rollable-tables",
+      "documentId": "q83PUKIAznuLpqSr",
+      "drawn": false,
+      "img": "icons/magic/unholy/strike-body-explode-disintegrate.webp",
+      "range": [
+        1,
+        1
+      ],
+      "text": "Wizard Mishap Tier 5",
+      "type": "pack",
+      "weight": 1,
+      "flags": {}
+    },
+    {
+      "_id": "mSXl6A8WKJmVkGjO",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        2,
+        2
+      ],
+      "text": "<b>Pyroclastic extrusion!</b> You deal [[/r 3d8]] damage to yourself and all creatures within near",
+      "type": "text",
+      "weight": 1,
+      "flags": {}
+    },
+    {
+      "_id": "b4iC8LuRcPRGE4at",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        3,
+        3
+      ],
+      "text": "<b>Astral incision!</b> An otherworldly blade cuts into your memory. You permanently forget one random spell",
+      "type": "text",
+      "weight": 1,
+      "flags": {}
+    },
+    {
+      "_id": "S2SRrlxctDoHACm1",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        4,
+        4
+      ],
+      "text": "<b>The grimlow!</b> You accidentally summon a hostile grimlow in a space near to you. It persists for 2d4 rounds before disappearing whence it came",
+      "type": "text",
+      "weight": 1,
+      "flags": {}
+    },
+    {
+      "_id": "PxVizZdjigztf4UH",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        5,
+        5
+      ],
+      "text": "<b>Dark plasma aura!</b> Attacks against you pass through a vile aura, dealing double damage for the next [[/r 2d6]] rounds",
+      "type": "text",
+      "weight": 1,
+      "flags": {}
+    },
+    {
+      "_id": "e3Y6IBqetlQqrwnw",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        6,
+        6
+      ],
+      "text": "<b>Gate!</b> You open a magic portal to another location, whether on this plane or another. Something dreadful will come through in [[/r 1d4]] rounds unless you close it with a [[check 18 int]] check on your turn",
+      "type": "text",
+      "weight": 1,
+      "flags": {}
+    },
+    {
+      "_id": "75GJHt36EtuofTvq",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        7,
+        7
+      ],
+      "text": "<b>Runaway arcana loop!</b> Your spell targets a random creature you can see, even if it would not normally be possible. Each subsequent turn, you must pass a spellcasting check for that spell or you cast it on another random creature in the same way (effect ends on success)",
+      "type": "text",
+      "weight": 1,
+      "flags": {}
+    },
+    {
+      "_id": "EI6osFZJ0JTXPNFP",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        8,
+        8
+      ],
+      "text": "<b>Arcane obstruction!</b> You lose the ability to cast all spells of a random tier until you complete a rest",
+      "type": "text",
+      "weight": 1,
+      "flags": {}
+    },
+    {
+      "_id": "FL0DEM3DhRGbv4AG",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        9,
+        9
+      ],
+      "text": "<b>What lurks beyond the veil!</b> You must pass a [[check 15 wis]] check or fall into mad raving for [[/r 1d4]] hours",
+      "type": "text",
+      "weight": 1,
+      "flags": {}
+    },
+    {
+      "_id": "M8VKYie0UBgGPGRB",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        10,
+        10
+      ],
+      "text": "<b>Ord's balance!</b> You must either permanently sacrifice a magic item or the ability to cast a tier 3+ spell you know",
+      "type": "text",
+      "weight": 1,
+      "flags": {}
+    },
+    {
+      "_id": "8wXIzpo54QsbWBxT",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        11,
+        11
+      ],
+      "text": "<b>Unmitigated chain reaction!</b> You have disadvantage on casting all spells for the next 10 rounds",
+      "type": "text",
+      "weight": 1,
+      "flags": {}
+    },
+    {
+      "_id": "bhGIFPdpt9gUJAny",
+      "documentCollection": "",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        12,
+        12
+      ],
+      "text": "<b>Shred!</b> You tear a large hole in the fabric of the universe close to you; the lightless tear grows larger every round",
+      "type": "text",
+      "weight": 1,
+      "flags": {}
+    },
+    {
+      "_id": "nJ0VC8CPWGRjVnGf",
+      "documentCollection": "shadowdark.rollable-tables",
+      "documentId": "q83PUKIAznuLpqSr",
+      "drawn": false,
+      "img": "icons/magic/unholy/strike-body-explode-disintegrate.webp",
+      "range": [
+        1,
+        1
+      ],
+      "text": "Wizard Mishap Tier 5",
+      "type": "pack",
+      "weight": 1,
+      "flags": {}
+    }
+  ],
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "shadowdark",
+    "systemVersion": "3.5.0",
+    "createdTime": 1752254888056,
+    "modifiedTime": 1752254888056,
+    "lastModifiedBy": "5VTkSiz1YNCdJesO"
+  },
+  "flags": {
+    "exportSource": {
+      "world": "tosk",
+      "system": "shadowdark",
+      "coreVersion": "12.343",
+      "systemVersion": "3.5.0"
+    }
+  }
+}

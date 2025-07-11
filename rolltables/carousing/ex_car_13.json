@@ -1,0 +1,147 @@
+{
+  "folder": "8a6xKKdhJr1C9zRs",
+  "name": "ex-car-13",
+  "img": "icons/consumables/drinks/alcohol-beer-stein-wooden-metal-brown.webp",
+  "description": "",
+  "results": [
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "vynQPGwgWoEGEzbo",
+      "text": "You accidentally joined some pirates and helped fight off a rival crew, earning a share of the loot.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "documentCollection": ""
+    },
+    {
+      "type": "text",
+      "documentCollection": "",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "omnCCEcgf1IFTIvr",
+      "text": "Gain 6 XP and 10% of your total wealth",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "documentCollection": "",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "ihFJQ6idH0pd8w5w",
+      "text": "Accidentally stumbled into a ceremony held by a secret society that include some local nobles.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "documentCollection": "",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "NxiwFdCXwLNV4L6o",
+      "text": "Gain 6 XP and a debt owed by 1d4 nobles",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "documentCollection": "",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_id": "YDYDQk0ZoFQn7LBm",
+      "text": "You pulled off an ill-advised heist inside a feared sorcerer’s tower.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "documentCollection": "",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_id": "KzCL9GDbjNo1wcfw",
+      "text": "Gain 6 XP and an 80-100 treasure table item",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "documentCollection": "",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_id": "sKqTxbv0C9cZ6w4e",
+      "text": "You helped an old wizard organize (some) of his chaotic library.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "documentCollection": "",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_id": "Czxrojn8ulZMtF02",
+      "text": "Gain 6 XP and a random scroll",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "exportSource": {
+      "world": "tosk",
+      "system": "shadowdark",
+      "coreVersion": "12.343",
+      "systemVersion": "3.5.0"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.343",
+    "systemId": "shadowdark",
+    "systemVersion": "3.4.4",
+    "createdTime": 1745422343517,
+    "modifiedTime": 1752255053181,
+    "lastModifiedBy": "5VTkSiz1YNCdJesO"
+  },
+  "formula": "1d4"
+}
