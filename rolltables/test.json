@@ -1,0 +1,11 @@
+{
+  "formula": "1d100",
+  "name": "Test Table",
+  "img": "icons/containers/chest/chest-reinforced-steel-walnut-brown.webp",
+  "replacement": true,
+  "displayRoll": false,
+  "results": [
+    { "range": [1,1], "text": "An armored beast the size of a ship is rampaging nearby" },
+    { "range": [2,3], "text": "A team of assassins is on its way to kill your group" }
+  ]
+}

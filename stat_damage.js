@@ -1,5 +1,5 @@
 // Apply Stat Damage
-// Author: PrototypeESBU
+// Author: Prototype
 // v1.0
 // Description: Adds a negative condition that temporarily lowers stats
 // icons/skills/wounds/blood-cells-vessel-red.webp
