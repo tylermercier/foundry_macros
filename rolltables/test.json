@@ -1,11 +1,29 @@
 {
   "formula": "1d100",
-  "name": "Test Table",
+  "name": "New Character",
   "img": "icons/containers/chest/chest-reinforced-steel-walnut-brown.webp",
   "replacement": true,
   "displayRoll": false,
   "results": [
-    { "range": [1,1], "text": "An armored beast the size of a ship is rampaging nearby" },
-    { "range": [2,3], "text": "A team of assassins is on its way to kill your group" }
+    { "range": [1,1], "text": "Is trapped in a giant spider web (it returns in 1d4 rounds)" },
+    { "range": [2,2], "text": "Crashes through the ceiling and gets up, somehow unhurt" },
+    { "range": [3,3], "text": "Is locked in a rotted wardrobe full of very outdated clothing" },
+    { "range": [4,4], "text": "Is tied up in a rope that hangs from a hook in the ceiling" },
+    { "range": [5,5], "text": "Runs in being chased by a random encounter creature" },
+    { "range": [6,6], "text": "Is in a barrel of pickled herring; the stench is awful" },
+    { "range": [7,7], "text": "Gets tossed through an extraplanar portal that snaps shut" },
+    { "range": [8,8], "text": "Frantically digs out of a shallow grave in the ground" },
+    { "range": [9,9], "text": "Is stuck inside a mirror that releases them upon shattering" },
+    { "range": [10,10], "text": "Is the lone survivor of another team of 0-level crawlers" },
+    { "range": [11,11], "text": "Touched a teleportation trap in another far-flung location" },
+    { "range": [12,12], "text": "Is a 'statue' whose petrification finally wears off after years" },
+    { "range": [13,13], "text": "Is standing directly behind the next door the PCs open" },
+    { "range": [14,14], "text": "Is stuck in a pair of rusty wall manacles on short chains" },
+    { "range": [15,15], "text": "Is tied to a roasting spit over a fire; the cook will return soon" },
+    { "range": [16,16], "text": "Crashes down the hall, at first sounding like a monster" },
+    { "range": [17,17], "text": "Is a lone escapee from a group of prisoners held elsewhere" },
+    { "range": [18,18], "text": "Took a wrong turn at the path to town and just kept going" },
+    { "range": [19,19], "text": "Is amongst the enemies, disguised as one of their own!" },
+    { "range": [20,20], "text": "Came straight from town! Gain +1 random piece of gear" }
   ]
 }
