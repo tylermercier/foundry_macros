@@ -1,0 +1,29 @@
+{
+  "formula": "1d20",
+  "name": "Enduring Wound",
+  "img": "icons/containers/chest/chest-reinforced-steel-walnut-brown.webp",
+  "replacement": true,
+  "displayRoll": false,
+  "results": [
+    { "range": [1,1], "text": "Heart Attack. Pass a DC 15 CON check or perish instantly" },
+    { "range": [2,2], "text": "Lop. You lose a limb. 1d4: 1. Leg, 2. Arm, 3. Foot, 4. Hand" },
+    { "range": [3,3], "text": "Blinded. You lose an eye (DISADV on sight-based checks)" },
+    { "range": [4,4], "text": "Torn Muscle. You permanently lose 1 point of STR" },
+    { "range": [5,5], "text": "Severed Tendon. You permanently lose 1 point of DEX" },
+    { "range": [6,6], "text": "Ruptured Spleen. You permanently lose 1 point of CON" },
+    { "range": [7,7], "text": "Concussion. You permanently lose 1 point of INT" },
+    { "range": [8,8], "text": "Ringing Ears. You permanently lose 1 point of WIS" },
+    { "range": [9,9], "text": "Disfigured. You permanently lose 1 point of CHA" },
+    { "range": [10,10], "text": "Lingering Wound. You permanently lose 1 HP" },
+    { "range": [11,11], "text": "Shattered. One piece of gear you wield is destroyed" },
+    { "range": [12,12], "text": "Stubborn Bleed. Lose 1d4 HP per round, lasts 1d4 rounds" },
+    { "range": [13,13], "text": "Bell Rung. You're utterly disoriented for 1d4 rounds" },
+    { "range": [14,14], "text": "Sand Everywhere. You're blinded for 1d4 rounds" },
+    { "range": [15,15], "text": "Staggered. DC 12 CON or lose your action, lasts 1d4 rounds" },
+    { "range": [16,16], "text": "Groggy. You lose your next action" },
+    { "range": [17,17], "text": "Unnerved. You have DISADV on all actions for 1d4 rounds" },
+    { "range": [18,18], "text": "Dizzy. You can only move a close distance for 1d4 rounds" },
+    { "range": [19,19], "text": "Scarred. You're left with a brutal scar and a harrowing tale" },
+    { "range": [20,20], "text": "Miracle. You have ADV on your next attack or check" }
+  ]
+}
