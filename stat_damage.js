@@ -1,8 +1,7 @@
 // Apply Stat Damage
-// Author: Prototype
+// Author: PrototypeESBU
 // v1.0
 // Description: Adds a negative condition that temporarily lowers stats
-// icons/skills/wounds/blood-cells-vessel-red.webp
 
 if (!token) ui.notification.error("no actor token seleted");
 let actor = token.actor;
@@ -23,59 +22,65 @@ const content = `
         </div>
     </div>
     <div class="SD-box">
-        <div class="header"><label>Damage</label><span></span></div>
+        <div class="header"><label>Change</label><span></span></div>
         <div class="content " style="padding:8px;text-align:center">
-            <h3><input name="damage" type="number" value="1" min="1"></h3>
+            <h3><input name="bonus" type="number" value="1" min="1"></h3>
+        </div>
+        <div class="header"><label>Description</label><span></span></div>
+        <div class="content " style="padding:8px;">
+            <h3><input name="description" type="text" value=""></h3>
         </div>
     </div>
 </form>
 `
 
 const dice = await Dialog.prompt({
-    title: "Apply Stat Damage",
-    width: 200,
-    content,
-    callback: ([html]) => applyDamage(new FormDataExtended(html.querySelector("form")).object),
+  title: "Apply Stat Effect",
+  width: 200,
+  content,
+  callback: ([html]) => applyStatChange(new FormDataExtended(html.querySelector("form")).object),
 });
 
-function applyDamage(formData) {
+function statChangeDescription(attribute, change) {
+  const direction = change > 0 ? "increased" : "decreased";
+  return `${attribute.toUpperCase()} ${direction} by ${Math.abs(change)}`;
+}
 
-    const attKey = formData.stat
-    const attPath = `system.abilities.${attKey}.bonus`
-    const attValue = -formData.damage;
-    const name = `Damage: ${attKey.toUpperCase()} (${attValue})`
-    const img = "icons/skills/movement/arrow-down-pink.webp"
+function applyStatChange(formData) {
+    const stat = formData.stat;
+    const bonus = Number(formData.bonus);
+    const buff_img = "icons/skills/social/intimidation-impressing.webp";
+    const debuff_img = "icons/creatures/unholy/demons-horned-glowing-pink.webp";
+    const defaultName = statChangeDescription(stat, bonus);
+    const name = formData.description?.trim() || defaultName;
 
-    let abilities = {};
-    abilities[attKey] = { bonus: attValue };
-
-    const effectData = {
-        "effects": [
-            {
-                "changes": [
-                    {
-                        "key": attPath,
-                        "mode": 2,
-                        "value": attValue
-                    }
-                ],
-                img,
-                name,
-                "transfer": true,
-                "type": "base",
-            }
-        ],
-        img,
+    const effectData ={
         name,
+        type: "Effect",
+        img: bonus > 0 ? buff_img : debuff_img,
         "system": {
+            description: defaultName,
             "category": "condition",
             "duration": {
                 "type": "unlimited",
                 "value": 1
-            },
-            "abilities": abilities
+            }
         },
-        "type": "Effect"
+        "effects": [
+            {
+                "changes": [
+                    {
+                        "key": `system.abilities.${stat}.bonus`,
+                        "mode": CONST.ACTIVE_EFFECT_MODES.ADD,
+                        "value": bonus
+                    }
+                ],
+                img: bonus > 0 ? buff_img : debuff_img,
+                name,
+                "transfer": true,
+                "type": "base",
+            }
+        ]
     }
-    Item.create(effectData, { parent: actor });
+    Item.create(effectData , {parent: actor});
 }

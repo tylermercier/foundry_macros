@@ -1,0 +1,53 @@
+d100 Isles of Andrik Encounters
+### Example table \n Useful for a template
+01-02 A storm giant wades through the surf, singing to thunderclouds
+03-04 A sea serpent coils lazily around a ruined lighthouse
+05-06 A hydra rises from the shallows, its heads arguing among themselves
+07-08 1d4 orcas drag a half-sunken longship through the waves
+09-10 A sea hag combs her hair with a spine, humming to drown the sea’s screams
+11-12 1d6 sea nymphs play with the corpse of a drowned sailor
+13-14 2d6 merfolk patrol near a coral shrine guarded by crabs
+15-16 1d4 sharks circle a floating crate leaking crimson wine
+17-18 A greater drake glides low over the waves, hunting whales
+19-20 2d4 stingbats scatter from a cliffside cave
+21-22 1d4 ghosts rise from shipwreck timbers at low tide
+23-24 1d4 willowisps lure travelers toward a flooded ruin
+25-26 1d4 fairies argue over a drowned knight’s sword
+27-28 2d4 vultures feast on a manticore’s carcass
+29-30 1d6 giant bats hang like fruit in the canopy above a river bend
+31-32 A lesser drake dozes in the sun, wings curled protectively around treasure
+33-34 A winter wolf prowls a snowy ridge, hunting a wounded troll
+35-36 2d4 wolves howl across a foggy glen, calling for their alpha
+37-38 1d4 draugr clamber up from a riverbank grave
+39-40 A weald hag offers “healing” herbs for a price best not paid
+41-42 A troll sleeps under a mossy bridge, toll unpaid in years
+43-44 A brown bear guards the remains of a hunter’s camp
+45-46 A treant leans over the trail, curious but slow to trust
+47-48 A dryad calls out to anyone who carries iron or fire
+49-50 Raiders (2d8 humans) drag captives through the forest at night
+51-52 1d4 dverg miners argue over ownership of a silver vein
+53-54 1d4 elves on silent mounts track a beast through the brush
+55-56 2d6 bandits demand “tax” for passing through their hunting ground
+57-58 1d8 peasants try to flee after their village was burned by orcs
+59-60 2d6 nords sing a funeral dirge beside a campfire
+61-62 1d4 oracles read omens from animal entrails
+63-64 A valkyrie watches the living, unseen but not unnoticed
+65-66 1d4 draugr crawl from the roots of an ancient barrow
+67-68 A treant lies dying, whispering a curse on the loggers who felled it
+69-70 2d4 elves share wine with unseen forest spirits
+71-72 2d6 peasants panic as a ghostly procession passes through their village
+73-74 A hydra corpse drifts downstream, attracting scavengers
+75-76 A drake and a wyvern circle the same mountain nest
+77-78 A brown bear wrestles a wolf over a deer carcass
+79-80 2d6 merfolk offer pearls in exchange for iron weapons
+81-82 A sea hag rides the tide upriver, followed by dead fish
+83-84 A group of 2d6 bandits ambush travelers on a mountain pass
+85-86 A winter wolf howls, summoning a sudden snow squall
+87-88 2d4 stingbats scatter from a fallen tree carved with runes
+89-90 A storm giant hurls boulders into the sea, grieving
+91-92 1d4 orcas beach themselves intentionally, then drag prey into the surf
+93-94 1d4 fairies dance around a stone circle that glows at dusk
+95-96 2d6 nords and 1 valkyrie burn their chieftain’s longship
+97-98 A great drake swoops low, chasing 2d6 terrified peasants
+99 Roll twice and combine results (reroll 99-100)
+100 The gods’ reflection appears in the river — choose who speaks
