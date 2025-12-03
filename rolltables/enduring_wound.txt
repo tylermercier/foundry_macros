@@ -1,0 +1,22 @@
+d20 Enduring Wounds
+### If a PC survives going to 0 HP after a severe injury, they might suffer an enduring wound. That character must pass a DC 12 CON check or roll on the below table for an immediate effect.
+01-01 Heart Attack. Pass a DC 15 CON check or perish instantly
+02-02 Lop. You lose a limb. 1d4: 1. Leg, 2. Arm, 3. Foot, 4. Hand
+03-03 Blinded. You lose an eye (DISADV on sight-based checks)
+04-04 Torn Muscle. You permanently lose 1 point of STR
+05-05 Severed Tendon. You permanently lose 1 point of DEX
+06-06 Ruptured Spleen. You permanently lose 1 point of CON
+07-07 Concussion. You permanently lose 1 point of INT
+08-08 Ringing Ears. You permanently lose 1 point of WIS
+09-09 Disfigured. You permanently lose 1 point of CHA
+10-10 Lingering Wound. You permanently lose 1 HP
+11-11 Shattered. One piece of gear you wield is destroyed
+12-12 Stubborn Bleed. Lose 1d4 HP per round, lasts 1d4 rounds
+13-13 Bell Rung. You're utterly disoriented for 1d4 rounds
+14-14 Sand Everywhere. You're blinded for 1d4 rounds
+15-15 Staggered. DC 12 CON or lose your action, lasts 1d4 rounds
+16-16 Groggy. You lose your next action
+17-17 Unnerved. You have DISADV on all actions for 1d4 rounds
+18-18 Dizzy. You can only move a close distance for 1d4 rounds
+19-19 Scarred. You're left with a brutal scar and a harrowing tale
+10-20 Miracle. You have ADV on your next attack or check
