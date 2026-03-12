@@ -1,0 +1,20 @@
+d19 Insults Table 1
+01 Lazy
+02 Stupid
+03 Insecure
+04 Idiotic
+05 Slimy
+06 Slutty
+07 Smelly
+08 Pompous
+09 Communist
+10 Dicknose
+11 Pie-Eating
+12 Racist
+13 Elitist
+14 White Trash
+15 Drug-Loving
+16 Butterface
+17 Tone Deaf
+18 Ugly
+19 Creepy

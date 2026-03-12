@@ -1,0 +1,20 @@
+d19 Insults Table 3
+01 Pilot
+02 Canoe
+03 Captain
+04 Pirate
+05 Hammer
+06 Knob
+07 Box
+08 Jockey
+09 Nazi
+10 Waffle
+11 Goblin
+12 Blossum
+13 Biscuit
+14 Clown
+15 Socket
+16 Monster
+17 Hound
+18 Dragon
+19 Balloon
